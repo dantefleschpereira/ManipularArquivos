@@ -1,2 +1,2 @@
 # ManipularArquivos
- Repositório sobre criação, cópia, serialização e desserialização de arquivos
+ Repositório sobre criação, cópia, serialização e desserialização.
